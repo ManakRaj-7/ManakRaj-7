@@ -1,9 +1,9 @@
 ### 👋 Hey there, I'm Manak Raj
 
-- 👨‍💻 I’m into everything in the field of computer science — from full-stack development to solving complex DSA problems.
-- 🌱 Currently building projects with treding technologies and the MERN stack.
+- 👨‍💻 I’m into everything computer science — from full-stack development to solving complex DSA problems.
+- 🌱 Currently building projects with Java and the MERN stack.
 - 🤝 Always open to collaborating on meaningful and impactful projects.
-- 📫 Reach me at: [gmail](7manakraj@gmail.com) or [LinkedIn](https://linkedin.com/in/manak-raj-427306282)
+- 📫 Reach me at: [7manakraj@gmail.com](mailto:7manakraj@gmail.com) or [LinkedIn](https://linkedin.com/in/manak-raj-427306282)
 - ⚡ Fun fact: I don’t just code — I create things that matter.
 - 😄 Pronouns: He/Him
 
