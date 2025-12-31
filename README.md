@@ -1,14 +1,11 @@
-### 👋 Hey there, I'm Manak Raj
+### 👋 Hi, I'm Manak Raj
 
-- 👨‍💻 I’m into everything in computer science — from full-stack development to solving complex DSA problems.
-- 🌱 Currently building projects with new technologies and MERN stack.
-- 🤝 Always open to collaborating on meaningful and impactful projects.
-- 📫 Reach me at: [7manakraj@gmail.com](mailto:7manakraj@gmail.com) or [LinkedIn](https://linkedin.com/in/manak-raj-427306282)
-- ⚡ Fun fact: I don’t just code — I create things that matter.
-- 😄 Pronouns: He/Him
+I’m a **Software Engineer** focused on backend and full-stack development, with experience building secure, production-minded systems.
 
+- 🧠 Tech stack: **Spring Boot, Go, MERN, Next.js**
+- 🔐 Interested in backend architecture, authentication systems, and scalable APIs
+- 📚 Currently strengthening **data structures**, **system design**, and backend fundamentals
+- 🤝 Open to collaborating on meaningful engineering-driven projects
+- 📫 Reach me at: [7manakraj@gmail.com](mailto:7manakraj@gmail.com) | [LinkedIn](https://linkedin.com/in/manak-raj-427306282)
 
-<!---
-ManakRaj-7/ManakRaj-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I prefer building systems that are clean, reliable, and designed to work beyond tutorials.
